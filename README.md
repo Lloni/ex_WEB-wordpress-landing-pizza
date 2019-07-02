@@ -1,1 +1,1 @@
-gh pages: https://github.com/Lloni/ex_WEB-wordpress-landing-pizza
+gh pages: https://lloni.github.io/ex_WEB-wordpress-landing-pizza/. 
